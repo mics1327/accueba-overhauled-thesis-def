@@ -1,0 +1,10 @@
+:root {
+  --primary-clr: #1183c3;
+}
+
+.remove-scroll {
+  overflow: hidden;
+}
+body {
+  overflow: hidden;
+}

@@ -1,0 +1,33 @@
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: center;
+}
+table {
+  width: 100em;
+}
+
+.table-padding {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 7px;
+}
+.table-padding-left-only {
+  padding-right: 150px;
+  position: relative;
+  padding-left: 0px;
+  text-align: left;
+}
+
+body {
+  overflow: scroll;
+}
+
+.remove-border {
+  border-right: 0px solid #dddddd;
+  text-align: center;
+}
+.remove-border-right {
+  border-left: 0px solid #dddddd;
+  text-align: center;
+}
